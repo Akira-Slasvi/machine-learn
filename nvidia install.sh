@@ -13,3 +13,4 @@ echo "deb http://developer.download.nvidia.com/compute/cuda/repos/$distribution/
 sudo apt-get update
 sudo apt-get -y install cuda-drivers
 export PATH=/usr/local/cuda-11.5/bin${PATH:+:${PATH}}
+echo Successfully installed Nvidia
