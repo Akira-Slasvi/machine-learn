@@ -1,3 +1,4 @@
+#!/bin/sh
 sudo mkdir firstproject
 cd firstproject
 wget https://raw.githubusercontent.com/Akira-Slasvi/machine-learn/main/nvidia.sh
